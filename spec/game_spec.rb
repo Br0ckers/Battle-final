@@ -22,4 +22,6 @@ describe Game do
     subject.attack(player_2)
     end
   end
+
+  
 end
